@@ -1,0 +1,51 @@
+.wrapper {
+    background-image: url(../wer/Rectangle_12.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 800px;
+    height: 535px;
+
+    position: relative;
+    left: 0;
+    top: 0;
+}
+
+body {
+    margin: 0;
+}
+
+.wsaq {
+    background-color: rgba(34, 34, 149, 0.819);
+    color: aliceblue;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin: 0;
+    padding: 30px 30px;
+    width: 130px;
+    height: 120px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body,
+html {
+    height: 100%;
+}
+
+.qaz {
+
+    height: 190px;
+    width: 689px;
+    position: absolute;
+    left: 10%;
+    top: 200%;
+    margin: 0;
+    padding: 30px, 30px, 30px, 30px;
+    color: aliceblue;
+    margin: 0;
+    background-color: blue;
+}
